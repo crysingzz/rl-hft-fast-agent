@@ -1,0 +1,14 @@
+numpy>=1.26
+numba>=0.59
+gymnasium>=0.29
+stable-baselines3>=2.3
+stable-baselines3[extra]
+torch>=2.2
+pyyaml>=6.0
+
+pytest>=8.0
+pytest-cov
+matplotlib>=3.8
+pandas>=2.2
+tensorboard
+onnxruntime
